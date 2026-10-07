@@ -11,7 +11,6 @@ pet-pose-perception/
 ├── inference_video.py
 ├── requirements.txt
 ├── README.md
-├── SUBMISSION_CHECKLIST.md
 ├── src/
 │   ├── __init__.py
 │   └── features.py
